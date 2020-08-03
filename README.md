@@ -31,6 +31,7 @@ Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the intern
 - 💬 Ask me about why Jürgen Norbert Klopp is the best manager of this era.
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
+- :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 ### Languages
 
