@@ -47,7 +47,7 @@ Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the intern
 
 ---
 
-[![Spotify](https://tintindas.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work) 
+[![Spotify](novatorem.tintindas.vercel.app)](https://open.spotify.com/user/upamanyu.das.work) 
  
 ---
 
