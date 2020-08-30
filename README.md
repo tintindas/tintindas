@@ -48,10 +48,9 @@ Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the intern
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt='netlify' width='32px' height='32px' src='https://avatars0.githubusercontent.com/u/7892489?s=200&v=4'/>                                                     | <img alt='heroku' width='32px' height='32px' src='https://avatars3.githubusercontent.com/u/23211?s=200&v=4'/>                                                  | <img alt='firebase' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png'/> | <img alt='git' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>             | <img alt='terminal/bash' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'/> |
 
-
+---
 ### Vibing To
 
 [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work) 
- 
 ---
 P.S. - Do you have a dog? Can I pet them?
