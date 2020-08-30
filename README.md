@@ -33,6 +33,7 @@ Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the intern
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
+
 ### Languages
 
 | <img alt='c++' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/> | <img alt='javascript' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> | <img alt='python' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> |
@@ -46,8 +47,8 @@ Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the intern
 | <img alt='netlify' width='32px' height='32px' src='https://avatars0.githubusercontent.com/u/7892489?s=200&v=4'/>                                                     | <img alt='heroku' width='32px' height='32px' src='https://avatars3.githubusercontent.com/u/23211?s=200&v=4'/>                                                  | <img alt='firebase' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png'/> | <img alt='git' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'/>             | <img alt='terminal/bash' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'/> |
 
 ---
-
-[![Spotify](novatorem.tintindas.vercel.app)](https://open.spotify.com/user/upamanyu.das.work) 
+### Vibing to
+[![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work) 
  
 ---
 
