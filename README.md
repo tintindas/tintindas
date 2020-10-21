@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Upamanyu
-
+### Hi there 👋, I'm Upamanyu 
 <!--
 **tintindas/tintindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,14 +21,14 @@ Here are some ideas to get you started:
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-tintin__das-12100E?style=flat&logo=medium&logoColor=white&link=)]() -->
 
-Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the internet. Currently a full stack intern at Mall91.
+Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the internet. A former full stack intern at Mall91, and full-time learner.
 
 <img align='right' alt='programmer GIF' width=50% src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' />
 
 - 🔭 I’m currently working on a gallery app for artists and photographers (Think instagram but without the likes and mean comments).
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - 💬 Ask me about why Jürgen Norbert Klopp is the best manager of this era.
-- 💼 I'm pursuing a Bachelor's Degree in Engineering.
+- 💼 I'm pursuing a Bachelor's Degree in Engineering. In my final year :)
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
