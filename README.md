@@ -22,17 +22,15 @@ Here are some ideas to get you started:
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-tintin__das-12100E?style=flat&logo=medium&logoColor=white&link=)]() -->
 
-Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the internet. Currently a full stack intern at Mall91.
+Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the internet.
 
 <img align='right' alt='programmer GIF' width=50% src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' />
 
-- 🔭 I’m currently working on a gallery app for artists and photographers (Think instagram but without the likes and mean comments).
 - 🌱 I’m currently learning Data Analysis and Visualisation.
-- 💬 Ask me about why Jürgen Norbert Klopp is the best manager of this era.
+- :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
 - 💼 I'm pursuing a Bachelor's Degree in Engineering.
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
-
 
 <img align='right' alt='wear a mask gif' width=50% src='https://media.giphy.com/media/jqrKkJuwubfT4Xo8pQ/giphy.gif' />
 
@@ -40,7 +38,6 @@ Hi, I'm **Upamanyu Das**. I _write_, I _lift_ and I _build_ stuff for the intern
 
 | <img alt='c++' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/> | <img alt='javascript' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> | <img alt='python' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 
 ### Tools and Frameworks
 
