@@ -51,6 +51,6 @@ Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the intern
 
 ## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work)
 
-[Credits To Andrew Novac](https://github.com/novatorem)
+[Big thanks to Andrew Novacs for dynamic Spotify Song Card](https://github.com/novatorem)
 
 P.S. - Do you have a dog? Can I pet them?
