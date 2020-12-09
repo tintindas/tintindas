@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the internet.
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_version_control_9bpv.svg' />
+    <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
 </a>
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
