@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the internet.
 
-<img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
+<a href='https://undraw.co/'> 
+    <img align='right' alt='programmer' width=60% src='./undraw_version_control_9bpv.svg' />
+</a>
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
@@ -48,5 +50,7 @@ Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the intern
 ### Vibing To
 
 ## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work)
+
+[Credits To Andrew Novac](https://github.com/novatorem)
 
 P.S. - Do you have a dog? Can I pet them?
