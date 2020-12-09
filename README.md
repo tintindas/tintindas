@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the internet.
 
-<img align='right' alt='programmer GIF' width=50% src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' />
+<img align='right' alt='programmer' width=70% src='./undraw_web_developer_p3e5.svg' />
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
@@ -32,7 +32,7 @@ Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the intern
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
-<img align='right' alt='wear a mask gif' width=50% src='https://media.giphy.com/media/jqrKkJuwubfT4Xo8pQ/giphy.gif' />
+<!-- <img align='right' alt='wear a mask gif' width=50% src='https://media.giphy.com/media/jqrKkJuwubfT4Xo8pQ/giphy.gif' /> -->
 
 ### Languages
 
@@ -49,6 +49,6 @@ Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the intern
 
 ### Vibing To
 
-[![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work) 
----
+## [![Spotify](https://novatorem-sooty-five.vercel.app/api/spotify)](https://open.spotify.com/user/upamanyu.das.work)
+
 P.S. - Do you have a dog? Can I pet them?
