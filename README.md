@@ -53,4 +53,4 @@ Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the intern
 
 [Big thanks to Andrew Novacs for dynamic Spotify Song Card](https://github.com/novatorem)
 
-P.S. - Do you have a dog? Can I pet them?
+P.S. - Do you have a dog/cat? Can I pet them?
