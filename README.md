@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-tintin__das-12100E?style=flat&logo=medium&logoColor=white&link=)]() -->
 
-Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the internet.
+Hi, I'm **Upamanyu Das**. I _read_, I _write_ and I _build_ stuff for the internet.
 
 <a href='https://undraw.co/'> 
     <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
@@ -30,7 +30,7 @@ Hi, I'm **Upamanyu Das**. I _write_, I _read_ and I _build_ stuff for the intern
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
 - :soccer: Ask me why Jürgen Norbert Klopp is the best manager of this era.
-- 💼 I'm pursuing a Bachelor's Degree in Engineering.
+- 💼 Software Engineer at Natwest Group.
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
 - :octocat: Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
