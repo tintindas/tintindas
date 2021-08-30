@@ -98,12 +98,11 @@ Hi, I'm **Upamanyu Das**. I _read_, I _write_ and I _build_ stuff for the intern
 
 ## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Real World Python 🐍: Environment Setup - pyenv](https://dev.to/tintindas/real-world-python-environmet-setup-pyenv-3c0o)
-- [Real World Python 🐍: Introduction](https://dev.to/tintindas/real-world-python-introduction-3km4)
-- [Uh Oh! I Cloned without Forking!](https://dev.to/tintindas/uh-oh-i-cloned-without-forking-2eaj)
-- [Adding Typescript to my existing Node + Express API - Part 2 - Directory Structure](https://dev.to/tintindas/adding-typescript-to-my-existing-node-express-api-part-2-directory-structure-376m)
-- [Adding Typescript to my existing Node + Express API - Part 1 - Set up](https://dev.to/tintindas/adding-typescript-to-my-existing-node-express-api-part-1-set-up-48io)
+<!-- BLOG-POST-LIST:START -->[Real World Python 🐍: Environment Setup - pyenv](https://dev.to/tintindas/real-world-python-environmet-setup-pyenv-3c0o)  ----- Sun Aug 29 2021 7:22 PM 
+[Real World Python 🐍: Introduction](https://dev.to/tintindas/real-world-python-introduction-3km4)  ----- Sun Aug 29 2021 4:28 PM 
+[Uh Oh! I Cloned without Forking!](https://dev.to/tintindas/uh-oh-i-cloned-without-forking-2eaj)  ----- Sat Aug 14 2021 7:36 AM 
+[Adding Typescript to my existing Node + Express API - Part 2 - Directory Structure](https://dev.to/tintindas/adding-typescript-to-my-existing-node-express-api-part-2-directory-structure-376m)  ----- Tue Jan 26 2021 6:30 AM 
+[Adding Typescript to my existing Node + Express API - Part 1 - Set up](https://dev.to/tintindas/adding-typescript-to-my-existing-node-express-api-part-1-set-up-48io)  ----- Thu Jan 21 2021 5:40 PM 
 <!-- BLOG-POST-LIST:END -->
 
 ---
