@@ -30,8 +30,9 @@ Hi, I'm **Upamanyu Das**. I _read_, I _write_ and I _build_ stuff for the intern
 - 💼 Software Engineer at Natwest Group.
 - 🎓 Bachelor of Engineering from Netaji Subhas Institute of Technology (Delhi University).
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
-- ⚽ Jürgen Norbert Klopp is the best manager of this era.
+- ⚽ <img alt="You'll Never Walk Alone | Liverpool Football Club Chant" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
 - 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
+
 
 ## Languages
 
