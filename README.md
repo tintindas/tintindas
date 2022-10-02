@@ -26,13 +26,12 @@ Hi, I'm **Upamanyu Das**. I _read_, I _write_ and I _build_ stuff for the intern
     <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
 </a>
 
-- 🌱 I’m currently learning Data Analysis and Visualisation.
-- 💼 Software Engineer at Natwest Group.
+- 🌱 This semester I am teaching myself data visualisation.
+- 🎓 Currently pursuing a Master's of Computer Science at the [Albert-Ludwigs-Universität Freiburg](https://uni-freiburg.de/en/).
 - 🎓 Bachelor of Engineering from Netaji Subhas Institute of Technology (Delhi University).
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
 - ⚽ <img alt="You'll Never Walk Alone | Liverpool Football Club Chant" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
 - 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
-
 
 ## Languages
 
@@ -100,6 +99,7 @@ Hi, I'm **Upamanyu Das**. I _read_, I _write_ and I _build_ stuff for the intern
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Real World Python 🐍: Environment Setup - pyenv](https://dev.to/tintindas/real-world-python-environmet-setup-pyenv-3c0o)
 - [Real World Python 🐍: Introduction](https://dev.to/tintindas/real-world-python-introduction-3km4)
 - [Uh Oh! I Cloned without Forking!](https://dev.to/tintindas/uh-oh-i-cloned-without-forking-2eaj)
